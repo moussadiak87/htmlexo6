@@ -1,0 +1,16 @@
+.vert{
+  background-color: #50b157;
+  width: 100%;
+  height: 30px;
+}
+.bleu{
+  background-color: #5083b1;
+  width: 20%;
+  height: 30px;
+  float: right;
+}
+.recsaumon{
+  background-color: #f04a25;
+  width: 100%;
+  height: 75px;
+}
